@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "peamouth.aternos.host:20813",
+    "ip": "alcelaphus.aternos.host:20813",
     "port": 20813,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
