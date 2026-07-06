@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DycriptsInferno.aternos.me:20813",
+    "ip": "peamouth.aternos.host:20813",
     "port": 20813,
     "version": "",
     "try-creative": false
