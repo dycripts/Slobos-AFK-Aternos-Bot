@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DycriptsInferno.aternos.me:20813",
+    "port": 20813,
     "version": "",
     "try-creative": false
   },
